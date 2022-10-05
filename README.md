@@ -26,10 +26,7 @@
 <span align="left">
  
 ```
-Besides programming, I'm a Mathematician 
-which allows me to have a logical order.
-I love to learn new things, watch sci-fi movies and 
-appreciate sunsets🌅
+Fron-end Developer passionate about creating solutions and generating personal connections. In technology I discovered that I can express my knowledge and creativity, developing digital products with value.
 ```
 </span>
   
