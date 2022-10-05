@@ -53,4 +53,6 @@ creativity, developing digital products
 <a href = "lis2310.lla@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
 
 </p>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
