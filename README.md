@@ -1,18 +1,4 @@
-<!--a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a-->
-    
-<!--<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, First, solve the problem.
-Then, write the code.💻</h2>-->
-
-<hr>
-<!-- MAIN PHRASE SECTION -->
-<span>
-  <span>
-    <h3 align="center">"<em>💻
-First, solve the problem.
-Then, write the code.💻</em>"
-    </h3>
-</span>
-<hr>
+<h1 align="center">Hi 👋, I'm Lis</h1>
 
 <span align="left">
   
