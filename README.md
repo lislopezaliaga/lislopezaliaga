@@ -1,6 +1,7 @@
 <!--a href="#"><img width="100%" height="175px" src="https://firebasestorage.googleapis.com/v0/b/helppetsprueba2.appspot.com/o/imgPosts%2Fundraw_voice_interface_eckp.svg?alt=media&token=b18eb55e-9bdf-4932-ae37-20c40c0dc7f5"/></a-->
     
-<!--<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lisbeth, better known as Lis👩‍💻</h2>-->
+<!--<h2 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, First, solve the problem.
+Then, write the code.💻</h2>-->
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -14,13 +15,15 @@ Learning to code is learning to create and innovate</em>"
 
 <span align="left">
   
-- 👋🏻 Hey There! I'm Lisbeth, better known as Lis.
+- 👩🏻‍🦰 Hey There! I'm Lisbeth, better known as Lis.
 
-- 🌱 I’m a frontend developer and currently learning Angular and React.
+- 👨🏻‍🎓 I’m a frontend developer and currently learning Angular and React.
   
-- 👀 I’m interesting in programming, machine learning and I'm improving my backend skills.
+- 📖 I’m interesting in programming, machine learning and I'm improving my backend skills.
 
-- 🔭 I’m looking to collaborate on interesting projects.
+- 🤝🏻 I’m looking to collaborate on interesting projects.
+    
+- 📫Contáctame: lis2310.llla@gmail.com
 </span>
   
 <div align="center">
