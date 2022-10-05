@@ -21,7 +21,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> About Me: 
+## 📒 About Me: 
 
 <span align="left">
  
