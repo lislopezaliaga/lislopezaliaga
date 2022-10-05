@@ -7,8 +7,9 @@ Then, write the code.💻</h2>-->
 <!-- MAIN PHRASE SECTION -->
 <span>
   <span>
-    <h3 align="center">"<em>
-Learning to code is learning to create and innovate</em>"
+    <h3 align="center">"<em>💻
+First, solve the problem.
+Then, write the code.💻</em>"
     </h3>
 </span>
 <hr>
