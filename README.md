@@ -22,16 +22,13 @@
 </div>
 
 ## 📒 About Me: 
-
-<span align="left">
+<p style="text-align: justify;">Párrafo con un texto</p>
+<span style="text-align: justify">
  
 ```
-Fron-end Developer passionate about
-creating solutions and generating personal
-connections. In technology I discovered
-that I can express my knowledge and
-creativity, developing digital products
- with value.
+Fron-end Developer passionate about creating solutions and generating
+personal connections. In technology I discovered that I can express my
+knowledge and creativity, developing digital products with value.
 ```
 </span>
   
