@@ -10,7 +10,7 @@
 
 - 🤝🏻 I’m looking to collaborate on interesting projects.
     
-- 📫Contáctame: lis2310.llla@gmail.com
+- 📫Contact: lis2310.llla@gmail.com
 </span>
   
 <div align="center">
