@@ -22,7 +22,7 @@
 </div>
 
 ## 📒 About Me: 
-<p style="text-align: justify;">Párrafo con un texto</p>
+
 <span style="text-align: justify">
  
 ```
@@ -46,7 +46,7 @@ knowledge and creativity, developing digital products with value.
   <a href="https://github.com/fio-azahuanche/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fio-azahuanche&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/> -->
 
-##🌐 Connect with me:
+## 🌐Connect with me:
 
 <p align="center">
 
